@@ -1,0 +1,214 @@
+Tweet Text,Sentiment Score,Sentiment Label,Negative Keywords,Cleaned Tweet Text,Emoji Count,Hashtags Count,Profanity Count
+"""You are amazing!""",0.8,Positive,-,"""amazing""",2,1,0
+"""I hate everyone here!""",-0.9,Negative,"""hate""","""hate everyone here""",0,0,2
+"""This is not great work!""",-0.5,Negative,"""not, great""","""not great work""",1,1,1
+"""I love this weather!""",0.6,Positive,-,"""love weather""",3,2,0
+"""Why are people so rude?""",-0.7,Negative,"""rude""","""people rude""",1,1,1
+"""Such an amazing day!""",0.9,Positive,-,"""amazing day""",4,1,0
+"""This day has been absolutely horrible!""",-0.8,Negative,"""horrible""","""day absolutely horrible""",0,0,1
+"""I love the energy in this room!""",0.9,Positive,-,"""love energy room""",1,0,0
+"""What an awful performance, truly pathetic""",-0.9,Negative,"""awful, pathetic""","""awful performance pathetic""",0,0,2
+"""The food was great, we had an amazing time""",0.8,Positive,-,"""food great amazing time""",0,0,0
+"""Not the best service, but it was okay.""",-0.3,Negative,"""not, best""","""not best service okay""",0,0,0
+"""This project is going nowhere!""",-0.7,Negative,"""nowhere""","""project going nowhere""",0,0,0
+"""You?e doing an awesome job!""",0.9,Positive,-,"""awesome job""",1,0,0
+"""Why does this always happen to me?""",-0.6,Negative,"""always happen""","""always happen me""",0,0,0
+"""Just finished a wonderful meal!""",0.8,Positive,-,"""finished wonderful meal""",1,0,0
+"""This is unacceptable behavior!""",-0.8,Negative,"""unacceptable, behavior""","""unacceptable behavior""",0,0,1
+"""Feeling blessed to see another day! ??""",0.9,Positive,-,"""feeling blessed another day""",1,1,0
+"""This app is so buggy and useless!""",-0.9,Negative,"""buggy, useless""","""app buggy useless""",0,0,1
+"""What a fantastic event, truly memorable!""",0.8,Positive,-,"""fantastic event memorable""",1,0,0
+"""I? so angry, I can? even think straight!""",-0.9,Negative,"""angry""","""angry think straight""",1,0,1
+"""The view from here is breathtaking!""",0.9,Positive,-,"""view breathtaking""",0,0,0
+"""This doesn? make any sense.""",-0.5,Negative,"""doesn?, sense""","""doesn? make sense""",0,0,0
+"""Life is beautiful and full of surprises.""",0.9,Positive,-,"""life beautiful full surprises""",0,0,0
+"""I can? believe how terrible this is!""",-0.8,Negative,"""terrible""","""can? believe terrible""",0,0,1
+"""You have outdone yourself, bravo!""",0.8,Positive,-,"""outdone yourself bravo""",1,0,0
+"""This policy is just plain stupid.""",-0.8,Negative,"""stupid""","""policy plain stupid""",0,0,1
+"""Best experience ever, highly recommend!""",0.9,Positive,-,"""best experience recommend""",0,1,0
+"""Can someone fix this mess already?""",-0.7,Negative,"""fix, mess""","""fix mess already""",0,0,0
+"""So grateful for this opportunity!""",0.9,Positive,-,"""grateful opportunity""",0,0,0
+"""This is the worst product I?e ever used.""",-0.9,Negative,"""worst""","""worst product used""",0,0,1
+"""A day full of joy and laughter! ??""",0.9,Positive,-,"""day joy laughter""",1,1,
+"""Absolutely love the way this turned out!""",0.8,Positive,-,"""absolutely love turned out""",2,0,0
+"""I can? stand this anymore, so frustrating.""",-0.8,Negative,"""stand, frustrating""","""can? stand frustrating""",0,0,1
+"""What a mediocre performance.""",-0.4,Negative,"""mediocre""","""mediocre performance""",0,0,0
+"""This is such an exciting opportunity!""",0.9,Positive,-,"""exciting opportunity""",0,0,0
+"""I? really disappointed with this service.""",-0.7,Negative,"""disappointed""","""disappointed service""",0,0,1
+"""Finally some good news today!""",0.8,Positive,-,"""finally good news today""",0,1,0
+"""This place is an absolute disaster!""",-0.9,Negative,"""disaster""","""place absolute disaster""",0,0,1
+"""I? so grateful to have experienced this.""",0.9,Positive,-,"""grateful experienced this""",0,0,0
+"""Why is this so complicated?!""",-0.7,Negative,"""complicated""","""complicated""",0,0,0
+"""Had a fantastic weekend with friends! ??""",0.9,Positive,-,"""fantastic weekend friends""",1,1,0
+"""I hate being stuck in traffic every day!""",-0.9,Negative,"""hate, stuck""","""hate stuck traffic""",0,0,1
+"""This is beyond ridiculous.""",-0.8,Negative,"""ridiculous""","""beyond ridiculous""",0,0,1
+"""Wow, such a beautiful sunset!""",0.8,Positive,-,"""beautiful sunset""",0,1,0
+"""Terrible customer service, never again.""",-0.9,Negative,"""terrible""","""terrible customer service""",0,0,1
+"""Today is a good day to start fresh.""",0.7,Positive,-,"""today good day start fresh""",0,0,0
+"""Why are people so inconsiderate sometimes?""",-0.6,Negative,"""inconsiderate""","""people inconsiderate sometimes""",0,0,0
+"""Can? believe how amazing this is!""",0.9,Positive,-,"""believe amazing this""",0,0,0
+"""Feeling so blessed right now.""",0.8,Positive,-,"""feeling blessed right now""",0,0,0
+"""This is the worst experience of my life.""",-0.9,Negative,"""worst""","""worst experience life""",0,0,1
+"""Great vibes all around!""",0.8,Positive,-,"""great vibes all around""",0,0,0
+"""This isn? working at all, what a mess.""",-0.8,Negative,"""isn?, mess""","""isn? working mess""",0,0,0
+"""Life has its ups and downs, but it? okay.""",0.2,Neutral,"""downs""","""life ups downs okay""",0,0,0
+"""Such an inspiring story to hear.""",0.9,Positive,-,"""inspiring story hear""",0,0,0
+"""I? so sick of all this nonsense.""",-0.8,Negative,"""sick, nonsense""","""sick nonsense""",0,0,1
+"""A wonderful way to end the day.""",0.8,Positive,-,"""wonderful end day""",0,0,0
+"""Why is this even happening? I don? get it.""",-0.7,Negative,"""happening, don?""","""happening don? get it""",0,0,0
+"""A truly magical experience.""",0.9,Positive,-,"""truly magical experience""",0,0,0
+"""This whole system is broken and useless.""",-0.9,Negative,"""broken, useless""","""system broken useless""",0,0,1
+"""Love the effort everyone is putting in!""",0.9,Positive,-,"""love effort everyone putting""",0,0,0
+"""I? beyond annoyed at this point.""",-0.8,Negative,"""annoyed""","""beyond annoyed point""",0,0,1
+"""This day couldn? get any worse.""",-0.9,Negative,"""worse""","""day couldn? worse""",0,0,1
+"""I? on top of the world right now!""",0.9,Positive,-,"""top world right now""",1,0,0
+"""The food here is absolutely disgusting.""",-0.8,Negative,"""disgusting""","""food absolutely disgusting""",0,0,1
+"""Had an amazing time with my family today.""",0.8,Positive,-,"""amazing time family today""",0,0,0
+"""This is just so unfair, I can? deal.""",-0.7,Negative,"""unfair, deal""","""unfair can? deal""",0,0,0
+"""Feeling so lucky to be alive right now.""",0.8,Positive,-,"""feeling lucky alive now""",0,0,0
+"""I don? recommend this place to anyone.""",-0.8,Negative,"""don?, recommend""","""don? recommend place anyone""",0,0,1
+"""What an inspiring story, I? so touched.""",0.9,Positive,-,"""inspiring story touched""",0,0,0
+"""I?e never felt this tired in my life.""",-0.6,Negative,"""tired""","""never felt tired life""",0,0,0
+"""Enjoyed every moment of this adventure!""",0.9,Positive,-,"""enjoyed moment adventure""",1,1,0
+"""Why does everything always go wrong?""",-0.8,Negative,"""wrong""","""everything always wrong""",0,0,0
+"""The view from here is absolutely stunning.""",0.8,Positive,-,"""view absolutely stunning""",0,1,0
+"""This is not acceptable in any way.""",-0.8,Negative,"""not, acceptable""","""not acceptable any way""",0,0,1
+"""A beautiful day to relax and enjoy.""",0.8,Positive,-,"""beautiful day relax enjoy""",0,0,0
+"""I?e had enough of this nonsense.""",-0.8,Negative,"""enough, nonsense""","""had enough nonsense""",0,0,1
+"""So proud of what I accomplished today!""",0.9,Positive,-,"""proud accomplished today""",0,0,0
+"""I can? believe how bad this turned out.""",-0.9,Negative,"""bad""","""believe bad turned out""",0,0,1
+"""Every little thing brings me joy today!""",0.9,Positive,-,"""every little thing joy today""",0,1,0
+"""How do they manage to mess up every time?""",-0.8,Negative,"""mess""","""manage mess every time""",0,0,0
+"""Absolutely love the energy in this place!""",0.9,Positive,-,"""love energy this place""",0,1,0
+"""This is the last time I? coming here.""",-0.8,Negative,"""last""","""last time coming here""",0,0,1
+"""Life is just too beautiful to waste.""",0.8,Positive,-,"""life beautiful waste""",0,0,0
+"""Horrible experience, I? so upset.""",-0.9,Negative,"""horrible, upset""","""horrible experience upset""",0,0,1
+"""An unforgettable memory to cherish forever.""",0.9,Positive,-,"""unforgettable memory cherish""",0,0,0
+"""I? so fed up with all of this nonsense.""",-0.8,Negative,"""fed, nonsense""","""fed nonsense all""",0,0,1
+"""Wishing everyone a wonderful evening!""",0.9,Positive,-,"""wishing everyone wonderful""",0,1,0
+"""I don? understand why this keeps happening.""",-0.7,Negative,"""don?, happening""","""don? understand keeps happening""",0,0,0
+"""Such a heartwarming message, I? touched.""",0.9,Positive,-,"""heartwarming message touched""",0,0,0
+"""I? tired of being ignored all the time.""",-0.7,Negative,"""tired, ignored""","""tired ignored all time""",0,0,0
+"""Everything about today feels perfect!""",0.9,Positive,-,"""everything today feels perfect""",0,1,0
+"""This is by far the worst service ever!""",-0.9,Negative,"""worst""","""far worst service ever""",0,0,1
+"""Happiness is finding joy in small things.""",0.8,Positive,-,"""happiness finding joy small""",0,0,0
+"""I? beyond frustrated at this point.""",-0.8,Negative,"""frustrated""","""beyond frustrated point""",0,0,1
+"""What a breathtaking experience, wow!""",0.9,Positive,-,"""breathtaking experience wow""",0,0,0
+"""I wish things would just go smoothly for once.""",-0.7,Negative,"""wish, smoothly""","""wish things smoothly once""",0,0,0
+"""Success feels so sweet today!""",0.9,Positive,-,"""success feels sweet today""",0,0,0
+"""I regret coming here, what a waste.""",-0.9,Negative,"""regret, waste""","""regret coming waste""",0,0,1
+"""Feeling so blessed to see another day.""",0.8,Positive,-,"""feeling blessed another day""",0,0,0
+"""It? like no one cares anymore.""",-0.7,Negative,"""cares""","""no one cares anymore""",0,0,0
+"""A magical evening under the stars!""",0.9,Positive,-,"""magical evening stars""",0,1,0
+"""This failure is beyond comprehension.""",-0.8,Negative,"""failure""","""failure beyond comprehension""",0,0,1
+"""A day well spent with loved ones!""",0.8,Positive,-,"""day spent loved ones""",0,0,0
+"""This whole thing is a nightmare.""",-0.9,Negative,"""nightmare""","""whole thing nightmare""",0,0,1
+"""Best decision I ever made in my life.""",0.9,Positive,-,"""best decision ever life""",0,0,0
+"""I don? see the point of this anymore.""",-0.8,Negative,"""point""","""don? point anymore""",0,0,0
+"""Cheers to brighter days ahead!""",0.9,Positive,-,"""cheers brighter days ahead""",0,1,0
+"""This is such a huge disappointment.""",-0.8,Negative,"""disappointment""","""huge disappointment""",0,0,1
+"""Love the way this turned out, so happy!""",0.9,Positive,-,"""love way turned happy""",1,1,0
+"""I hate how everything went wrong today.""",-0.9,Negative,"""hate, wrong""","""hate everything wrong today""",0,0,1
+"""Feeling blessed to see another sunrise!""",0.9,Positive,-,"""feeling blessed sunrise""",0,1,0
+"""This is absolutely the worst decision ever.""",-0.9,Negative,"""worst""","""absolutely worst decision""",0,0,1
+"""The kindness of strangers is heartwarming.""",0.8,Positive,-,"""kindness strangers heartwarming""",0,0,0
+"""I can? even describe how frustrated I am.""",-0.8,Negative,"""frustrated""","""describe frustrated""",0,0,1
+"""Had a wonderful time catching up with old friends.""",0.8,Positive,-,"""wonderful time old friends""",0,0,0
+"""I? so done with all this drama.""",-0.8,Negative,"""done, drama""","""done all drama""",0,0,1
+"""What an incredible performance tonight!""",0.9,Positive,-,"""incredible performance tonight""",0,0,0
+"""I? overwhelmed by how bad today has been.""",-0.9,Negative,"""overwhelmed, bad""","""overwhelmed bad today""",0,0,1
+"""Enjoying the peace and calm of this evening.""",0.8,Positive,-,"""enjoying peace calm evening""",0,0,0
+"""I?e reached my limit with this nonsense.""",-0.8,Negative,"""limit, nonsense""","""reached limit nonsense""",0,0,1
+"""Finally achieved what I?e been working for!""",0.9,Positive,-,"""finally achieved working""",0,0,0
+"""Why does everything keep falling apart?""",-0.8,Negative,"""falling, apart""","""everything falling apart""",0,0,0
+"""It? a day filled with positivity and joy.""",0.9,Positive,-,"""day filled positivity joy""",0,0,0
+"""This level of incompetence is unacceptable.""",-0.9,Negative,"""incompetence, unacceptable""","""level incompetence unacceptable""",0,0,1
+"""The beauty of nature leaves me speechless.""",0.8,Positive,-,"""beauty nature leaves speechless""",0,0,0
+"""I? beyond exhausted, can? take this anymore.""",-0.9,Negative,"""exhausted""","""beyond exhausted take anymore""",0,0,0
+"""Success tastes sweeter after all the hard work.""",0.9,Positive,-,"""success tastes sweeter hard work""",0,0,0
+"""What a terrible mistake to make.""",-0.8,Negative,"""terrible, mistake""","""terrible mistake make""",0,0,1
+"""So much joy and laughter in the air tonight!""",0.9,Positive,-,"""joy laughter air tonight""",1,1,0
+"""I regret ever trusting them with this.""",-0.9,Negative,"""regret""","""regret trusting""",0,0,1
+"""The sun is shining, and it feels amazing!""",0.8,Positive,-,"""sun shining feels amazing""",0,1,0
+"""This is an absolute disaster, nothing works.""",-0.9,Negative,"""disaster""","""absolute disaster nothing works""",0,0,1
+"""Feeling grateful for the little things in life.""",0.9,Positive,-,"""feeling grateful little things""",0,0,0
+"""I can? deal with this stress anymore.""",-0.8,Negative,"""stress""","""deal stress anymore""",0,0,0
+"""Every small victory counts, I? so happy!""",0.9,Positive,-,"""small victory counts happy""",0,1,0
+"""This kind of behavior is just not okay.""",-0.8,Negative,"""behavior""","""kind behavior just not okay""",0,0,0
+"""What a spectacular view, simply breathtaking!""",0.9,Positive,-,"""spectacular view breathtaking""",0,0,0
+"""I don? think I?e ever been this upset.""",-0.8,Negative,"""upset""","""don? think been upset""",0,0,1
+"""Such a fulfilling day spent with loved ones.""",0.8,Positive,-,"""fulfilling day loved ones""",0,0,0
+"""This is just another failure to add to the list.""",-0.8,Negative,"""failure""","""another failure add list""",0,0,1
+"""Nothing beats the feeling of true happiness.""",0.9,Positive,-,"""nothing beats feeling happiness""",0,0,0
+"""I? tired of facing disappointment every day.""",-0.8,Negative,"""disappointment""","""tired facing disappointment day""",0,0,0
+"""A new adventure awaits, I? excited!""",0.9,Positive,-,"""new adventure awaits excited""",0,1,0
+"""The system is broken, nothing is functional.""",-0.9,Negative,"""broken""","""system broken nothing functional""",0,0,1
+"""Appreciating the beauty of life right now.""",0.9,Positive,-,"""appreciating beauty life now""",0,0,0
+"""This place is a mess, I want to leave.""",-0.8,Negative,"""mess""","""place mess want leave""",0,0,1
+"""I couldn? be happier with how things are going!""",0.9,Positive,-,"""couldn? happier things going""",0,0,0
+"""Everything about this is completely wrong.""",-0.8,Negative,"""wrong""","""everything completely wrong""",0,0,0
+"""A truly inspiring story that touched my heart.""",0.9,Positive,-,"""inspiring story touched heart""",0,0,0
+"""The customer service here is terrible.""",-0.9,Negative,"""terrible""","""customer service terrible""",0,0,1
+"""I? beyond grateful for the support I?e received.""",0.9,Positive,-,"""beyond grateful support received""",0,0,0
+"""This day feels like a complete waste of time.""",-0.9,Negative,"""waste""","""day feels waste time""",0,,
+"""I feel so betrayed by everything.""",-0.9,Negative,"""betrayed""","""feel betrayed everything""",0,0,1
+"""What an amazing experience, I feel blessed!""",0.9,Positive,-,"""amazing experience feel blessed""",0,0,0
+"""This is the worst day ever, I can? stand it!""",-0.9,Negative,"""worst, can? stand""","""worst day can? stand""",0,0,1
+"""I just can? stop smiling today!""",0.9,Positive,-,"""can? stop smiling today""",0,0,0
+"""It? just too much to handle right now.""",-0.8,Negative,"""too much, handle""","""too much handle right now""",0,0,1
+"""Had the best time with friends today!""",0.9,Positive,-,"""best time friends today""",0,0,0
+"""This situation is completely hopeless.""",-0.9,Negative,"""hopeless""","""situation completely hopeless""",0,0,1
+"""I am feeling so inspired and motivated!""",0.8,Positive,-,"""feeling inspired motivated""",0,0,0
+"""I feel so alone, no one understands me.""",-0.9,Negative,"""alone, no one""","""feel alone understands me""",0,0,1
+"""This is the best news I?e heard in a while!""",0.9,Positive,-,"""best news heard while""",0,1,0
+"""This whole experience is a complete disaster.""",-0.9,Negative,"""disaster""","""whole experience complete disaster""",0,0,1
+"""I feel so grateful for everything in my life.""",0.9,Positive,-,"""grateful everything life""",0,0,0
+"""I can? believe how badly things went today.""",-0.9,Negative,"""badly""","""can? believe badly things went""",0,0,1
+"""What a wonderful day, I? so happy!""",0.9,Positive,-,"""wonderful day happy""",0,0,0
+"""This is so frustrating, nothing is working!""",-0.8,Negative,"""frustrating""","""so frustrating nothing working""",0,0,1
+"""I? loving every minute of today!""",0.9,Positive,-,"""loving minute today""",0,0,0
+"""I? so angry, I can? take this anymore!""",-0.9,Negative,"""angry""","""angry can? take anymore""",0,0,1
+"""I had the best time with my family today.""",0.9,Positive,-,"""best time family today""",0,0,0
+"""I don? know how much more of this I can take.""",-0.8,Negative,"""don? know""","""much more take""",0,0,1
+"""So proud of my achievements today!""",0.9,Positive,-,"""proud achievements today""",0,0,0
+"""Why does everything have to be so difficult?""",-0.8,Negative,"""difficult""","""everything difficult""",0,0,1
+"""Can? stop laughing at this hilarious video!""",0.9,Positive,-,"""stop laughing hilarious video""",0,0,0
+"""I? completely fed up with this nonsense.""",-0.9,Negative,"""fed up, nonsense""","""completely fed up nonsense""",0,0,1
+"""What an amazing achievement, feeling proud!""",0.9,Positive,-,"""amazing achievement feeling proud""",0,0,0
+"""I can? believe how much I?e lost today.""",-0.9,Negative,"""lost""","""can? believe much lost today""",0,0,1
+"""The view from the top of the mountain was breathtaking.""",0.9,Positive,-,"""view top mountain breathtaking""",0,0,0
+"""Why does everything go wrong when I need it the most?""",-0.9,Negative,"""wrong, need""","""everything go wrong need most""",0,0,1
+"""This day is so full of happiness and joy!""",0.9,Positive,-,"""day full happiness joy""",0,0,0
+"""I feel trapped in this terrible situation.""",-0.9,Negative,"""trapped, terrible""","""feel trapped terrible situation""",0,0,1
+"""The sun is shining and everything feels right.""",0.8,Positive,-,"""sun shining everything feels right""",0,0,0
+"""This is such a waste of time.""",-0.8,Negative,"""waste""","""waste time""",0,0,1
+"""Feeling on top of the world right now!""",0.9,Positive,-,"""feeling top world""",0,0,0
+"""I can? believe I trusted this system.""",-0.9,Negative,"""trusted""","""can? believe trusted system""",0,0,1
+"""Such a wonderful surprise, I? so excited!""",0.9,Positive,-,"""wonderful surprise excited""",0,0,0
+"""I am just done with all this nonsense.""",-0.8,Negative,"""done, nonsense""","""done all nonsense""",0,0,1
+"""This place is amazing, best experience ever!""",0.9,Positive,-,"""place amazing best experience""",0,0,0
+"""I just want to give up right now.""",-0.9,Negative,"""give up""","""want give up right now""",0,0,1
+"""The kindness and generosity I?e seen today is inspiring.""",0.9,Positive,-,"""kindness generosity inspiring""",0,0,0
+"""This whole experience is just frustrating.""",-0.8,Negative,"""frustrating""","""whole experience frustrating""",0,0,1
+"""I? so happy I could burst!""",0.9,Positive,-,"""happy could burst""",0,0,0
+"""This is the worst experience I?e ever had.""",-0.9,Negative,"""worst""","""worst experience ever had""",0,0,1
+"""Why can? I ever catch a break?""",-0.9,Negative,"""can?""","""can? ever catch break""",0,0,1
+"""Such a beautiful day, everything feels right!""",0.9,Positive,-,"""beautiful day everything feels right""",0,0,0
+"""I? so tired of all this stress.""",-0.9,Negative,"""tired, stress""","""tired stress""",0,0,1
+"""I can? believe how amazing this is!""",0.9,Positive,-,"""can? believe amazing""",0,0,0
+"""This is the worst decision I?e ever made.""",-0.9,Negative,"""worst""","""worst decision ever made""",0,0,1
+"""Feeling so proud of what we accomplished!""",0.9,Positive,-,"""proud accomplished""",0,0,0
+"""I hate being stuck in this situation.""",-0.9,Negative,"""hate""","""hate stuck situation""",0,0,1
+"""This experience is just so wonderful!""",0.9,Positive,-,"""experience wonderful""",0,0,0
+"""Why does everything feel so hopeless?""",-0.9,Negative,"""hopeless""","""everything feel hopeless""",0,0,1
+"""It? just such a great day!""",0.9,Positive,-,"""great day""",0,0,0
+"""I? really disappointed with how things went.""",-0.9,Negative,"""disappointed""","""disappointed things went""",0,0,1
+"""Couldn? have asked for a better day!""",0.9,Positive,-,"""couldn? asked better day""",0,0,0
+"""This is totally unfair!""",-0.9,Negative,"""unfair""","""totally unfair""",0,0,1
+"""Had the most amazing time with my family!""",0.9,Positive,-,"""most amazing time family""",0,0,0
+"""Everything is falling apart!""",-0.9,Negative,"""falling apart""","""everything falling apart""",0,0,1
+"""This is so exciting, I can? wait!""",0.9,Positive,-,"""exciting can? wait""",0,0,0
+"""I feel like everything is crashing down.""",-0.9,Negative,"""crashing down""","""everything crashing down""",0,0,1
+"""This is such an amazing accomplishment!""",0.9,Positive,-,"""amazing accomplishment""",0,0,0
+"""I? just so over it all.""",-0.8,Negative,"""over it""","""over it all""",0,0,1
+"""Everything is going so well right now.""",0.9,Positive,-,"""going well right now""",0,0,0
