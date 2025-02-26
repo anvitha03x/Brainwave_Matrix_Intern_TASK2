@@ -46,16 +46,6 @@ This project analyzes public sentiment towards specific topics, products, or eve
 
 ---
 
-## **📊 Sample Visualizations**  
-
-<img src="images/sentiment_distribution.png" width="500">  
-📌 *Sentiment Distribution: Positive, Negative, and Neutral Tweets*  
-
-<img src="images/emoji_impact.png" width="500">  
-📌 *Emoji Count vs. Sentiment Score*  
-
----
-
 ## **🚀 Future Enhancements**  
 🔹 Incorporate **Deep Learning (BERT, LSTM)** for more accurate sentiment classification  
 🔹 Track **sentiment trends over time** if timestamp data is available  
