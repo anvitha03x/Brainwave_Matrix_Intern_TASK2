@@ -51,9 +51,4 @@ This project analyzes public sentiment towards specific topics, products, or eve
 🔹 Track **sentiment trends over time** if timestamp data is available  
 🔹 Expand analysis to include **topic modeling**  
 
----
-
-## **📩 Connect & Collaborate!**  
-If you're interested in NLP, social media analytics, or data visualization, feel free to connect! Contributions and feedback are welcome. 🚀  
-
-💡 **#NLP #SentimentAnalysis #DataScience #MachineLearning**  
+ 
